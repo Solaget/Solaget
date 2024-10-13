@@ -1,5 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Solomon getnet</h1>
+
 <h3 align="center">A passionate Fullstack developer from Ethiopia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=solaget&label=Profile%20views&color=0e75b6&style=flat" alt="solaget" /> </p>
@@ -12,7 +13,7 @@
 
 - 🌱 I’m currently learning **Blockchain**
 
-- 👨‍💻 All of my projects are available at [solodevportfolio.vercel.app](solodevportfolio.vercel.app)
+- 👨‍💻 All of my projects are available at [solodevportfolio.vercel.app](https://solodevportfolio.vercel.app)
 
 - 💬 Ask me about **MERN**
 
