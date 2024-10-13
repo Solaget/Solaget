@@ -30,17 +30,9 @@
 
 # 📊 GitHub Stats:
 
-<p align="center">
 ![](https://github-readme-stats.vercel.app/api?username=solaget&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-</p>
-
-<p align="center">
 ![](https://github-readme-streak-stats.herokuapp.com/?user=solaget&theme=dark&hide_border=false)<br/>
-</p>
-
-<p align="center">
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=solaget&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-</p>
 
 ---
 
