@@ -14,7 +14,7 @@
 
 - 👯 I’m looking **to collaborate on open source projects.**
 
-- 💬 Ask me about **MERN, Next.js**
+- 💬 Ask me about **MERN, Next.js,Flask, FastApi**
 
 - 📫 How to reach me **solomongetnetofficial@gmail.com**
 
