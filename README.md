@@ -2,7 +2,6 @@
 
 <h3 align="center">Fullstack web developer from Ethiopia</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=solaget&label=Profile%20views&color=0e75b6&style=flat" alt="solaget" /> </p>
 
 ## 💫 About Me:
 
